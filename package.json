@@ -1,5 +1,5 @@
 {
-  "name": "pomelo-cli@2",
+  "name": "pomelo-cli2",
   "version": "0.1.4",
   "description": "Pomelo command line client for managing pomelo",
   "main": "index.js",
