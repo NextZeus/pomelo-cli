@@ -1,5 +1,5 @@
 {
-  "name": "pomelo-cli",
+  "name": "pomelo-cli@2",
   "version": "0.1.3",
   "description": "Pomelo command line client for managing pomelo",
   "main": "index.js",
@@ -17,11 +17,11 @@
     "pomelo-cli": "./bin/pomelo-cli"
   },
   "dependencies": {
-    "optimist": ">=0.6.0",
-    "cliff": ">=0.1.8",
+    "optimist": "*",
+    "cliff": "*",
     "pomelo-admin": "1.0.0",
-    "pomelo-logger": ">=0.0.3",
-    "async": ">=0.1.0"
+    "pomelo-logger": "*",
+    "async": "*"
   },
   "author": "fantasyni",
   "license": "MIT"
