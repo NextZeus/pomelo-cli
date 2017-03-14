@@ -6,7 +6,7 @@ you can use pomelo-cli to connect to pomelo master and do lots of things.
 
 ##Installation
 ```
-npm install -g pomelo-cli
+npm install -g pomelo-cli2
 ```
 ##Usage
 Use pomelo-cli to connect to pomelo master  
