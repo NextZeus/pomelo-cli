@@ -23,6 +23,6 @@
     "pomelo-logger": "*",
     "async": "*"
   },
-  "author": "xiaodong.li",
+  "author": ["fantasyni","xiaodong.li"],
   "license": "MIT"
 }
