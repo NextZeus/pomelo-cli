@@ -1,4 +1,4 @@
-pomelo-cli
+pomelo-cli2
 ========
 
 pomelo-cli is a command-line tool for [pomelo](https://github.com/NetEase/pomelo).  
@@ -28,6 +28,10 @@ Enjoy it:
 ## Links
 [user level control](https://github.com/NetEase/pomelo-admin#user-level-control)  
 [commands wiki](https://github.com/NetEase/pomelo-cli/wiki/pomelo-cli-man-page)
+
+## upgrade
+library version
+
 
 ## License
 
